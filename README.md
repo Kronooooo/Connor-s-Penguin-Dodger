@@ -6,5 +6,5 @@
 This is the first release of Space Penguins, with basic assets and no sound.
 
 ## CREDITS
-Penguin asset - https://caz-creates-games.itch.io/lil-penguin-character-sprite
+Penguin asset - https://caz-creates-games.itch.io/lil-penguin-character-sprite <br/>
 Background and asteroid asset - https://pixelalek.itch.io/spaceship-simple-assets

@@ -2,7 +2,7 @@
  
 ## PATCH NOTES
 
-# # # v1.0.0.0
+### v1.0.0.0
 This is the first release of Space Penguins, with basic assets and no sound.
 
 ## CREDITS

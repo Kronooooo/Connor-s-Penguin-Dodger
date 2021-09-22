@@ -13,6 +13,12 @@ Can now move using arrow keys<br/>
 Game difficulty now scales over time<br/>
 Added super-fast asteroid<br/>
 
+#### v2.1.0.0
+Added Global Leaderboard<br/>
+
+##### Bugfixes
+Fixed a bug where the super-fast meteors weren't scaling properly
+
 ## CREDITS
 Penguin asset - https://caz-creates-games.itch.io/lil-penguin-character-sprite <br/>
 Background and asteroid asset - https://pixelalek.itch.io/spaceship-simple-assets<br/>

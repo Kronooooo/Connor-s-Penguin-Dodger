@@ -10,6 +10,8 @@ Added Music and SFX <br/>
 Added settings to adjust volume<br/>
 Added session top score<br/>
 Can now move using arrow keys<br/>
+Game difficulty now scales over time<br/>
+Added super-fast asteroid<br/>
 
 ## CREDITS
 Penguin asset - https://caz-creates-games.itch.io/lil-penguin-character-sprite <br/>

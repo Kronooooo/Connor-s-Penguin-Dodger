@@ -19,6 +19,11 @@ Added Global Leaderboard<br/>
 ##### Bugfixes
 Fixed a bug where the super-fast meteors weren't scaling properly
 
+#### v2.2.0.0
+Can go home without viewing leaderboard<br/>
+Can view leaderboard from home screen<br/>
+No longer able to submit the same top score twice<br/>
+
 ## CREDITS
 Penguin asset - https://caz-creates-games.itch.io/lil-penguin-character-sprite <br/>
 Background and asteroid asset - https://pixelalek.itch.io/spaceship-simple-assets<br/>
